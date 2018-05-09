@@ -4,3 +4,7 @@
 
 Recursos de R-Ladies Santa Fe.
 R-Ladies Santa Fe fue fundado en Mayo de 2018. Es el capítulo número 100 de R-Ladies.
+
+Co-Organizadoras: Melina Vidoni
+
+Por más información escribinos a santafe@rladies.org!
