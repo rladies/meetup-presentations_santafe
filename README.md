@@ -21,5 +21,5 @@ En proceso! Muy pronto :D
 ## Recursos | Resources
 Recursos creados para R-Ladies Santa Fe, disponible para la comunidad R-Ladies.
    1. **Editables:** Contiene recursos editables. Algunos usan material open-source o de licencia pública (como fotos), pero la mayoría del contenido es autoría del capítulo. Este material puede ser reutilizado por otros capítulos.
-   2. **Utilizables:** Material utilizable, generalmente renderizado, creado a partir de lo que está disponible en Templates.
-        - [Plantilla PowerPoint](). Usa los colores de R-Ladies y las fuentes Open Sans (regular y condensada).
+   2. **Utilizables:** Material utilizable, generalmente renderizado y listo para su uso. Algunos son creados a partir de lo que está disponible en Templates, y otros son provistos por R-Ladies Global, y enlazado aquí para su fácil acceso.
+        - [Plantilla PowerPoint]().
