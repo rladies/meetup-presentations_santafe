@@ -11,9 +11,10 @@ Por más información escribinos a santafe@rladies.org!
 
 
 ## Eventos Pasados | Past Events
-En proceso! Muy pronto :D
-
-
+### 2018
+**Junio:** Primer Encuentro
+   1. _Slides_: ["Bienvenida a R-Ladies + El Potencial de R"]()
+   2. _Adicional_: [Tutorial Instalación R y RStudio]()
 
 
 
@@ -22,4 +23,5 @@ En proceso! Muy pronto :D
 Recursos creados para R-Ladies Santa Fe, disponible para la comunidad R-Ladies.
    1. **Editables:** Contiene recursos editables. Algunos usan material open-source o de licencia pública (como fotos), pero la mayoría del contenido es autoría del capítulo. Este material puede ser reutilizado por otros capítulos.
    2. **Utilizables:** Material utilizable, generalmente renderizado y listo para su uso. Algunos son creados a partir de lo que está disponible en Templates, y otros son provistos por R-Ladies Global, y enlazado aquí para su fácil acceso.
-        - [Plantilla PowerPoint]().
+        - [Plantilla PowerPoint](https://github.com/rladies/meetup-presentations_santafe/blob/master/recursos/utilizables/RLadiesGlobal_Template.pptx).
+        - [Troquelado] ().
