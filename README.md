@@ -13,8 +13,8 @@ Por más información escribinos a santafe@rladies.org!
 ## Eventos Pasados | Past Events
 ### 2018
 **Junio:** Primer Encuentro
-   1. _Slides_: ["Bienvenida a R-Ladies + El Potencial de R"]()
-   2. _Adicional_: [Tutorial Instalación R y RStudio]()
+   1. _Slides_: ["Bienvenida a R-Ladies + El Potencial de R"](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/01-Junio/Slides%20-%20Bienvenida%20a%20R-Ladies%20Santa%20Fe.pdf)
+   2. _Adicional_: [Tutorial Instalación R y RStudio](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/01-Junio/Tutorial_R_RStudio.pdf)
 
 
 
@@ -24,4 +24,4 @@ Recursos creados para R-Ladies Santa Fe, disponible para la comunidad R-Ladies.
    1. **Editables:** Contiene recursos editables. Algunos usan material open-source o de licencia pública (como fotos), pero la mayoría del contenido es autoría del capítulo. Este material puede ser reutilizado por otros capítulos.
    2. **Utilizables:** Material utilizable, generalmente renderizado y listo para su uso. Algunos son creados a partir de lo que está disponible en Templates, y otros son provistos por R-Ladies Global, y enlazado aquí para su fácil acceso.
         - [Plantilla PowerPoint](https://github.com/rladies/meetup-presentations_santafe/blob/master/recursos/utilizables/RLadiesGlobal_Template.pptx).
-        - [Troquelado] ().
+        - [Troquelado] (https://github.com/rladies/meetup-presentations_santafe/blob/master/recursos/templates/Troquelado.docx).
