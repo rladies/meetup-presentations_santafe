@@ -16,6 +16,9 @@ Por más información escribinos a santafe@rladies.org!
    1. _Slides_: ["Bienvenida a R-Ladies + El Potencial de R"](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/01-Junio/Slides%20-%20Bienvenida%20a%20R-Ladies%20Santa%20Fe.pdf)
    2. _Adicional_: [Tutorial Instalación R y RStudio](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/01-Junio/Tutorial_R_RStudio.pdf)
 
+**Agosto:** Taller de R para Ciencia de Datos, Desde Cero
+   1. _Slides_: [Taller de R para Ciencia de Datos, Desde Cero]().
+   2. _Adicional_: [Ejercicios Prácticos] () y [Datasets]()
 
 
 
