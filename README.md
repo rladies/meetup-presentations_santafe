@@ -22,12 +22,12 @@ Por más información escribinos a santafe@rladies.org!
 
 **Agosto:** Aplicaciones Reales de R en Argentina y Uruguay.
   1. _Slides_: Slides y presentaciones de las charlas.
-   - ["Abriendo y Analizando los Diarios de Sesiones Paralamentarias Uruguayas con en R"](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/04-Agosto/Presentacion_Daniela_DatosParlamentoUruguayo.pdf), por Daniela Vázquez (Uruguay).
-   - ["Indicadores de Desigualdad de Género Utilizando Datos Abiertos de la Encuesta Permanente de Hogares (EPH) y RMarkdown"](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/04-Agosto/Presentacion_Natsumi_DesigualdadDeGenero.pdf), por Natsumi Shokida (Buenos Aires).
-   - ["R: Usos y Desafíos"](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/04-Agosto/Presentación_Mariel_UsosR.pdf), por Mariel Lovatto (Santa Fe).
+     - ["Abriendo y Analizando los Diarios de Sesiones Paralamentarias Uruguayas con en R"](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/04-Agosto/Presentacion_Daniela_DatosParlamentoUruguayo.pdf), por Daniela Vázquez (Uruguay).
+     - ["Indicadores de Desigualdad de Género Utilizando Datos Abiertos de la Encuesta Permanente de Hogares (EPH) y RMarkdown"](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/04-Agosto/Presentacion_Natsumi_DesigualdadDeGenero.pdf), por Natsumi Shokida (Buenos Aires).
+     - ["R: Usos y Desafíos"](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/04-Agosto/Presentación_Mariel_UsosR.pdf), por Mariel Lovatto (Santa Fe).
   2. _Adicional_: Material adicional de las charlas.
-   - [RMarkdown](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/04-Agosto/Presentacion_Natsumi_DesigualdadDeGenero.Rmd) (Natsumi)
-   - [Análisis en R]() (Mariel)
+     - [RMarkdown](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/04-Agosto/Presentacion_Natsumi_DesigualdadDeGenero.Rmd) (Natsumi)
+     - [Análisis en R]() (Mariel)
 
 
 
