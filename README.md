@@ -29,7 +29,13 @@ Por más información escribinos a santafe@rladies.org!
      - [RMarkdown](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/04-Agosto/Presentacion_Natsumi_DesigualdadDeGenero.Rmd) (Natsumi)
      - [Análisis en R](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/04-Agosto/ScriptR-Mariel.R) (Mariel)
 
+**Septiembre:** R-Ladies Santa Fe en las Jornadas de Economía Crítica, en la UNL.
+1. Slides: ["La Iniciativa de R-Ladies"](/eventos/2018/05-Septiembre/JEC/Presentación_RLadies_JEC.pdf).
 
+
+**Septiembre:** Taller de Algoritmos Básicos de Machine Learning en R.
+1. Slides: [Algoritmos Básicos de Machine Learning en R](eventos/2018/05-Septiembre/Algoritmos_ML.pdf).
+1. Material Adicional: [Proyecto con Scripts R](eventos/2018/05-Septiembre/TallerR-MachineLearning-Scripts.rar).
 
 
 
@@ -39,3 +45,4 @@ Recursos creados para R-Ladies Santa Fe, disponible para la comunidad R-Ladies.
    2. **Utilizables:** Material utilizable, generalmente renderizado y listo para su uso. Algunos son creados a partir de lo que está disponible en Templates, y otros son provistos por R-Ladies Global, y enlazado aquí para su fácil acceso.
         - [Plantilla PowerPoint](https://github.com/rladies/meetup-presentations_santafe/blob/master/recursos/utilizables/RLadiesGlobal_Template.pptx).
         - [Troquelado](https://github.com/rladies/meetup-presentations_santafe/blob/master/recursos/templates/Troquelado.docx).
+        
