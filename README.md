@@ -13,11 +13,11 @@ Por más información escribinos a santafe@rladies.org!
 ## Eventos Pasados | Past Events
 ### 2018
 **Junio:** Primer Encuentro
-   1. _Slides_: ["Bienvenida a R-Ladies + El Potencial de R"](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/01-Junio/Slides%20-%20Bienvenida%20a%20R-Ladies%20Santa%20Fe.pdf)
+   1. _Slides_: ["Bienvenida a R-Ladies + El Potencial de R"](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/01-Junio/Slides%20-%20Bienvenida%20a%20R-Ladies%20Santa%20Fe.pdf) por Melina Vidoni.
    2. _Adicional_: [Tutorial Instalación R y RStudio](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/01-Junio/Tutorial_R_RStudio.pdf)
 
 **Julio:** Taller de R para Ciencia de Datos, Desde Cero
-   1. _Slides_: [Taller de R para Ciencia de Datos, Desde Cero](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/03-Julio/Slides-TallerR.pdf).
+   1. _Slides_: [Taller de R para Ciencia de Datos, Desde Cero](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/03-Julio/Slides-TallerR.pdf) por Melina Vidoni.
    2. _Adicional_: [Ejercicios Prácticos](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/03-Julio/Ejercicios%20Pr%C3%A1cticos.pdf) y [Datasets](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/03-Julio/TallerR-Datasets.rar)
 
 **Agosto:** Aplicaciones Reales de R en Argentina y Uruguay.
@@ -30,12 +30,22 @@ Por más información escribinos a santafe@rladies.org!
      - [Análisis en R](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/04-Agosto/ScriptR-Mariel.R) (Mariel)
 
 **Septiembre:** R-Ladies Santa Fe en las Jornadas de Economía Crítica, en la UNL.
-1. _Slides:_ ["La Iniciativa de R-Ladies"](/eventos/2018/05-Septiembre/JEC/Presentación_RLadies_JEC.pdf).
+1. _Slides:_ ["La Iniciativa de R-Ladies"](/eventos/2018/05-Septiembre/JEC/Presentación_RLadies_JEC.pdf)  por Melina Vidoni.
 
 
 **Septiembre:** Taller de Algoritmos Básicos de Machine Learning en R.
-1. _Slides:_ [Algoritmos Básicos de Machine Learning en R](eventos/2018/05-Septiembre/Algoritmos_ML.pdf).
-1. _Material Adicional:_ [Proyecto con Scripts R](eventos/2018/05-Septiembre/TallerR-MachineLearning-Scripts.rar).
+1. _Slides:_ [Algoritmos Básicos de Machine Learning en R](eventos/2018/05-Septiembre/Algoritmos_ML.pdf) por Melina Vidoni.
+1. _Adicional:_ [Proyecto con Scripts R](eventos/2018/05-Septiembre/TallerR-MachineLearning-Scripts.rar).
+
+
+
+**Octubre:** Feria de las Carreras + Encuentro.
+  1. _Slides_: Slides y presentaciones de las charlas.
+     - ["RLadies en Recreo"](eventos/2018/06-Octubre/01-Recreo/STEM-RLadies.pptx), por Melina Vidoni y Liza Dosso.
+     - ["R y Software Libre"](eventos/2018/06-Octubre/02-Encuentro/SoftwareLibre-R.pdf), por Liza Dosso.
+     - ["Taller de RMarkdown"](eventos/2018/06-Octubre/02-Encuentro/Taller%20de%20RMarkdown_RLadiesSF.pdf), por Juliana Benitez (Córdoba) y Paola Corrales (Buenos Aires).
+  2. _Adicional_: Material adicional de las charlas.
+     - [Script RMarkdown](eventos/2018/06-Octubre/02-Encuentro/ScriptRMarkdown.R) (Juliana y Paola)
 
 
 
