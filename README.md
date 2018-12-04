@@ -46,6 +46,16 @@ Por más información escribinos a santafe@rladies.org!
      - ["Taller de RMarkdown"](eventos/2018/06-Octubre/02-Encuentro/Taller%20de%20RMarkdown_RLadiesSF.pdf), por Juliana Benitez (Córdoba) y Paola Corrales (Buenos Aires).
   2. _Adicional_: Material adicional de las charlas.
      - [Script RMarkdown](eventos/2018/06-Octubre/02-Encuentro/ScriptRMarkdown.R) (Juliana y Paola)
+     
+
+**Noviembre:** Despedida de Año
+1. _Slides_: Slides y presentaciones de las charlas.
+	- [Chicas y Computadoras](eventos/2018/07-Noviembre/EricaHynes-ChicasComputadoras.pdf), por Dra. Erica Hynes (Ministra de Ciencia y Tecnología de la Prov. de Santa Fe).
+	- [Procesamiento de Señales en R](eventos/2018/07-Noviembre/Emilia-ProcesamientoDeSeñales.pdf), por Emilia Gibellini (Buenos Aires).
+	- [Ordenando Datos en R](eventos/2018/07-Noviembre/Mariel-OrdenandoDatos.pdf), por Mariel Lovatto (Santa Fe).
+	- [Bootstrap en R](eventos/2018/07-Noviembre/Andrea-Bootstrap.pdf), por Andrea Bergesio (Santa Fe).
+2. _Adicional_: Material adicional de las charlas.
+    - [Script + Datos Bootstrap](eventos/2018/07-Noviembre/Andrea-ScriptDatos.zip) (Andrea).     
 
 
 
@@ -55,4 +65,5 @@ Recursos creados para R-Ladies Santa Fe, disponible para la comunidad R-Ladies.
    2. **Utilizables:** Material utilizable, generalmente renderizado y listo para su uso. Algunos son creados a partir de lo que está disponible en Templates, y otros son provistos por R-Ladies Global, y enlazado aquí para su fácil acceso.
         - [Plantilla PowerPoint](https://github.com/rladies/meetup-presentations_santafe/blob/master/recursos/utilizables/RLadiesGlobal_Template.pptx).
         - [Troquelado](https://github.com/rladies/meetup-presentations_santafe/blob/master/recursos/templates/Troquelado.docx).
+        - [Documento Misión/Visión](/recursos/utilizables/Informacion%20R-Ladies.pdf)
         
