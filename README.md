@@ -11,6 +11,19 @@ Por más información escribinos a santafe@rladies.org!
 
 
 ## Eventos Pasados | Past Events
+
+
+### 2019
+**Febrero:** #WomenInScience - En el marco del _Día de la mujer y la niña en la ciencia_, invitadas por el Ministerio de Ciencia y Tecnología de la Provincia de Santa Fe.
+1. Slides: [PDF](/eventos/2019/01-Febrero/STEM-RLadies.pdf) - [PPTX](/eventos/2019/01-Febrero/STEM-RLadies.pptx).
+2. Material: [Script R](/eventos/2019/01-Febrero/script.R) - [Datos](/eventos/2019/01-Febrero/programadorasnew.csv). Los datos pertenecen a la base "Mujeres Programadoras" generada por la ONG Argentina _Chicas en Tecnología_.
+
+
+
+
+
+
+
 ### 2018
 **Junio:** Primer Encuentro
    1. _Slides_: ["Bienvenida a R-Ladies + El Potencial de R"](https://github.com/rladies/meetup-presentations_santafe/blob/master/eventos/2018/01-Junio/Slides%20-%20Bienvenida%20a%20R-Ladies%20Santa%20Fe.pdf) por Melina Vidoni.
